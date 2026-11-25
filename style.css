@@ -30,6 +30,14 @@ h1 {
 	letter-spacing:-2px;
 	text-align:center;
 }
+h5 {
+	margin:0;
+	padding:16px 0;
+	color:#e1e9df;
+	font:bold 40px/1.2em Arial, Helvetica, sans-serif;
+	letter-spacing:-2px;
+	text-align:left;
+}
 
 h1a {
 	margin:0;
@@ -39,7 +47,9 @@ h1a {
 	letter-spacing:-2px;
 	text-align:center;
 }
-
+h5 span {
+	color:#eb6740;
+}
 
 
 
